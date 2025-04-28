@@ -1,0 +1,27 @@
+/* Archivo principal que importa todos los módulos CSS */
+/* Importar variables globales */
+@import url('variables.css');
+
+/* Importar estilos base */
+@import url('base.css');
+
+/* Importar componentes de navegación */
+@import url('navbar.css');
+
+/* Importar estilos de modales */
+@import url('modals.css');
+
+/* Importar estilos de carruseles */
+@import url('carousel.css');
+
+/* Importar estilos de tarjetas de productos */
+@import url('cards.css');
+
+/* Importar estilos de secciones específicas */
+@import url('sections.css');
+
+/* Importar estilos del footer */
+@import url('footer.css');
+
+/* Importar estilos responsivos */
+@import url('responsive.css');
